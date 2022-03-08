@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prasanta2018
-- 👀 I’m interested in Networking projects
+- 👀 I’m interested in Networking stuff, Linux kernel, etc.
 - 🌱 I’m currently learning Networking Software Development based on Linux kernel
 - 💞️ I’m looking to collaborate on: Linux kernel
 - 📫 How to reach me: prasanta.mtechdmc@gmail.com
